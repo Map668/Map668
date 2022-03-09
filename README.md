@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Map, a beginner at coding.
+- 👋 Hi, I’m Map
 - 👀 I’m interested in Math, AI, and robotics.
-- 🌱 I’m currently learning how to use Github and the idea&power behind it.
-- 💞️ I’m looking to master this tool to start my work with it.
+- 🌱 I’m currently learning how to use Github and trying to use it on everything.
+- 💞️ I’m looking to colaborate on robotics.
 - 📫 Feel free to communicate with me.
 
 <!---
