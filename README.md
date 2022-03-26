@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Map
 - 👀 I’m interested in Math, AI, and robotics.
-- 🌱 I’m currently learning how to use Github and trying to use it on everything.
+- 🌱 I’m currently learning how to use Github.
 - 💞️ I’m looking to colaborate on robotics.
 - 📫 Feel free to communicate with me.
 
